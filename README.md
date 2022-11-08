@@ -29,7 +29,4 @@
 <br/><br/>
 
 ### Everybody loves stats?!
-![Stats me current](https://github-readme-stats.vercel.app/api?username=steadfasterX&show_icons=true&count_private=true&hide_border=true&hide_rank=true&hide=prs,issues,stars,contribs&hide_title=true&include_all_commits=true)
-![Stats me current](https://github-readme-stats.vercel.app/api?username=steadfasterX&show_icons=true&count_private=true&hide_border=true&hide_rank=true&hide=prs,issues,stars,contribs&hide_title=true)
-
-![Stats me](https://github-readme-stats.vercel.app/api?username=steadfasterX&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true&hide_rank=true&hide=commits) ![Stats code](https://github-readme-stats.vercel.app/api/top-langs/?username=steadfasterX&langs_count=10&hide=c,assembly,objective-c,logos,bison,java&layout=compact&hide_border=true&hide_title=true)
+![Stats me](https://github-readme-stats.vercel.app/api?username=steadfasterX&show_icons=true&count_private=true&hide_border=true&hide_title=true&hide_rank=true&hide=stars&include_all_commits=true) ![Stats code](https://github-readme-stats.vercel.app/api/top-langs/?username=steadfasterX&langs_count=10&hide=c,assembly,objective-c,logos,bison,java&layout=compact&hide_border=true&hide_title=false&custom_title=code%20I%27m%20forced%20to%20work%20with..%20%3AP)
