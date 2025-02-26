@@ -14,6 +14,9 @@
 <a href="https://www.android.com">
   <img align="center" src="https://img.shields.io/badge/-Android-grey?style=for-the-badge&logo=android" />
 </a>
+<a href="https://axpos.org/">
+  <img align="center" src="https://img.shields.io/badge/-AXP.OS-000000?style=for-the-badge&logo=android" />
+</a>
 <a href="https://www.ansible.com">
   <img align="center" src="https://img.shields.io/badge/-Ansible-blue?style=for-the-badge&logo=ansible" />
 </a>
@@ -21,16 +24,10 @@
   <img align="center" src="https://img.shields.io/badge/-semaphore-527a7a?style=for-the-badge&logo=ansible" />
 </a>
 <a href="https://www.manjaro.org">
-  <img align="center" src="https://img.shields.io/badge/-Manjaro-black?style=for-the-badge&logo=manjaro" />
+  <img align="center" src="https://img.shields.io/badge/-Manjaro-99ffcc?style=for-the-badge&logo=manjaro" />
 </a>
 <a href="https://mAid.binbash.rocks">
-  <img align="center" src="https://img.shields.io/badge/-mAid-106b16?style=for-the-badge&logo=linux" />
-</a>
-<a href="https://e.foundation/">
-  <img align="center" src="https://img.shields.io/badge/-e%20OS-cccccc?style=for-the-badge&logo=e" />
-</a>
-<a href="https://divestos.org/">
-  <img align="center" src="https://img.shields.io/badge/-divest%20OS-ff6600?style=for-the-badge&logo=android" />
+  <img align="center" src="https://img.shields.io/badge/-mAid%20Linux-106b16?style=for-the-badge&logo=linux" />
 </a>
 <br/><br/>
 
